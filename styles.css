@@ -91,6 +91,7 @@ body {
 #bottom-content {
   height: auto;
   width: 100%;
+  margin-left: 70px;
 }
 
 #left-column {
