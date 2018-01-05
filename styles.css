@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+* {
+  font-family: 'Nunito', sans-serif;
+  color: white;
+}
+
+a {
+  
+}
+
+h2 {
+  font-weight: 200;
+  color: white;
+}
+
+h3 {
+  font-weight: 200;
+}
+
+h4 {
+  font-weight: 200;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+#main-column {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#top-gradient {
+  height:10px;
+  background: linear-gradient(black, #6b000c);
+}
+
+#bottom-gradient {
+  height:10px;
+  background: linear-gradient(#6b000c, black);
+}
+
+#banner-image {
+  margin: 0px;
+  padding: 0px;
+  height: 225px;
+  width: 900px;
+  float: center;
+  background-image: url(http://www.daemonicswordorpg.com/images/icons/title.png);
+}
+
+.header-line {
+	margin: 0px;
+	padding: 0px;
+	height: 25px;
+	width: 900px;
+	background-image: url(http://www.daemonicswordorpg.com/images/icons/headerline.png);
+}
+
+#site-title {
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+
+#navbar {
+  height: 50px;
+  background: linear-gradient(#ce0017, black);
+}
+
+.nav-item {
+  display: inline-block;
+  color: black;
+  transition: all 150ms ease-in;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 20px;
+  margin: 10px 0px 0px 30px;
+  width: auto;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  color: white;
+}
+
+#bottom-content {
+  height: auto;
+  width: 100%;
+}
+
+#left-column {
+  display: block;
+  width: 50%;
+  float: left;
+  align-items: center;
+}
+
+#right-column {
+  float: left;
+  display: block;
+  width: auto;
+}
+
+.mainframe {
+	margin: 0px;
+	padding: 0px;
+	height: 500px;
+    width: 400px;
+    
+    color: #FFF;
+	padding: 5px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: xx-large;
+	text-align: center;
+	margin-top: auto;
+	margin-right: 0px;
+	margin-bottom: auto;
+	margin-left: 0px;
+}
+
+.Text {
+	color: #FFF;
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-family: 'Nunito', sans-serif;
+}
+
+.Text_Version {
+	color: #FFF;
+	padding: 5px;
+	font-family: 'Nunito', sans-serif;
+	font-size: x-large;
+	text-align: center;
+	margin-top: auto;
+	margin-right: 0px;
+	margin-bottom: auto;
+	margin-left: 0px;
+}
