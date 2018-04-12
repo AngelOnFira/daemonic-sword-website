@@ -48,7 +48,7 @@ body {
   height: 225px;
   width: 900px;
   float: center;
-  background-image: url(http://www.daemonicswordorpg.com/images/icons/title.png);
+  background-image: url(http://www.daemonicsword.com/images/icons/title.png);
 }
 
 .header-line {
@@ -56,7 +56,7 @@ body {
 	padding: 0px;
 	height: 25px;
 	width: 900px;
-	background-image: url(http://www.daemonicswordorpg.com/images/icons/headerline.png);
+	background-image: url(http://www.daemonicsword.com/images/icons/headerline.png);
 }
 
 #site-title {

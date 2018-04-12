@@ -1,6 +1,6 @@
 # Daemonic Sword Website
 
-www.daemonicswordorpg.com
+www.daemonicsword.com
 
 This is the code for the Daemonic Sword website. I did not make the game, I just help manage the community.
 
